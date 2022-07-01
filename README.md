@@ -1,6 +1,6 @@
 # AI club website
 
-Website: http://harkerai.ml/
+Website: https://harkerai.tk/
 
 Contributors
 - Krish M
